@@ -1,0 +1,448 @@
+<TOP>
+<NUM>1<NUM>
+<TITLE>what problems concerns there making descriptive titles what difficulties involved automatically retrieving articles from approximate titles what usual relevance content articles their titles
+</TOP>
+<TOP>
+<NUM>2<NUM>
+<TITLE>actually pertinent data opposed references entire articles themselves retrieved automatically response information requests
+</TOP>
+<TOP>
+<NUM>3<NUM>
+<TITLE>what information science give definitions where possible
+</TOP>
+<TOP>
+<NUM>4<NUM>
+<TITLE>image recognition other methods automatically transforming printed text into computer ready form
+</TOP>
+<TOP>
+<NUM>5<NUM>
+<TITLE>what special training will ordinary researchers businessmen need proper information management unobstructed information retrieval systems what problems they likely encounter
+</TOP>
+<TOP>
+<NUM>6<NUM>
+<TITLE>what possibilities there verbal communication between computers humans that communication spoken word
+</TOP>
+<TOP>
+<NUM>7<NUM>
+<TITLE>describe presently working planned systems publishing printing original papers computer then saving byproduct articles coded data processing form further retrieval
+</TOP>
+<TOP>
+<NUM>8<NUM>
+<TITLE>describe information retrieval indexing other languages what bearing does have science general
+</TOP>
+<TOP>
+<NUM>9<NUM>
+<TITLE>what possibilities there automatic grammatical contextual analysis articles inclusion information retrieval system
+</TOP>
+<TOP>
+<NUM>10<NUM>
+<TITLE>abstract mathematics information retrieval group theory
+</TOP>
+<TOP>
+<NUM>11<NUM>
+<TITLE>what need information consolidation evaluation retrieval scientific research
+</TOP>
+<TOP>
+<NUM>12<NUM>
+<TITLE>give methods high speed publication printing distribution scientific journals
+</TOP>
+<TOP>
+<NUM>13<NUM>
+<TITLE>what criteria have been developed objective evaluation information retrieval dissemination systems
+</TOP>
+<TOP>
+<NUM>14<NUM>
+<TITLE>what future there automatic medical diagnosis
+</TOP>
+<TOP>
+<NUM>15<NUM>
+<TITLE>much information retrieval dissemination systems well automated libraries cost they worth researcher industry
+</TOP>
+<TOP>
+<NUM>16<NUM>
+<TITLE>what systems incorporate multiprogramming remote stations information retrieval what will extent their future
+</TOP>
+<TOP>
+<NUM>17<NUM>
+<TITLE>means obtaining large volume high speed customer usable information retrieval output
+</TOP>
+<TOP>
+<NUM>18<NUM>
+<TITLE>what methods there encoding automatically matching automatically drawing structures extended dimensions like structural formulas chemical compounds
+</TOP>
+<TOP>
+<NUM>19<NUM>
+<TITLE>techniques machine matching machine searching systems coding matching methods
+</TOP>
+<TOP>
+<NUM>20<NUM>
+<TITLE>testing automated information systems
+</TOP>
+<TOP>
+<NUM>21<NUM>
+<TITLE>need provide personnel information field
+</TOP>
+<TOP>
+<NUM>22<NUM>
+<TITLE>automated information medical field
+</TOP>
+<TOP>
+<NUM>23<NUM>
+<TITLE>amount books libraries relation need automated information systems
+</TOP>
+<TOP>
+<NUM>24<NUM>
+<TITLE>educational training requirements personnel information field possibilities this training needs programs providing this training
+</TOP>
+<TOP>
+<NUM>25<NUM>
+<TITLE>international systems exchange dissemination information
+</TOP>
+<TOP>
+<NUM>26<NUM>
+<TITLE>cost determination cost associated with systems automated information
+</TOP>
+<TOP>
+<NUM>27<NUM>
+<TITLE>computerized information retrieval systems computerized indexing systems
+</TOP>
+<TOP>
+<NUM>28<NUM>
+<TITLE>computerized information systems fields related chemistry
+</TOP>
+<TOP>
+<NUM>29<NUM>
+<TITLE>specific advantages computerized index systems
+</TOP>
+<TOP>
+<NUM>30<NUM>
+<TITLE>information dissemination journals periodicals
+</TOP>
+<TOP>
+<NUM>31<NUM>
+<TITLE>information systems physical sciences
+</TOP>
+<TOP>
+<NUM>32<NUM>
+<TITLE>attempts computerized mechanized systems general libraries problems methods automated general author title indexing systems
+</TOP>
+<TOP>
+<NUM>33<NUM>
+<TITLE>retrieval systems which provide automated transmission information user from distance
+</TOP>
+<TOP>
+<NUM>34<NUM>
+<TITLE>methods coding used computerized index systems
+</TOP>
+<TOP>
+<NUM>35<NUM>
+<TITLE>government supported agencies projects dealing with information dissemination
+</TOP>
+<TOP>
+<NUM>36<NUM>
+<TITLE>what some theories practices computer translating texts from national language another machine translating compete with traditional methods translating comprehending nuances meaning languages different structures
+</TOP>
+<TOP>
+<NUM>37<NUM>
+<TITLE>what lists words useful indexing classifying material available wanted lists terms that descriptive vocabularies particular fields schedules words that related each other meaningful schemes wanted lists that have been tested least some extent found useful organizing material retrieving
+</TOP>
+<TOP>
+<NUM>38<NUM>
+<TITLE>access words information retrieval system kept date word meanings usage often change lists must dynamic current what definitions problem progress toward solutions have been made providing necessary flexibility systems subject headings index words other symbols used getting stored data
+</TOP>
+<TOP>
+<NUM>39<NUM>
+<TITLE>progress information retrieval presents problems maladjustment dislocation personnel training retraining people equipment important levels librarians assistants technicians students researchers even executives will need education learn purpose values uses information systems hardware what programs have been developed change attitudes skills traditional workers help them learn newer techniques
+</TOP>
+<TOP>
+<NUM>40<NUM>
+<TITLE>what status machine translation what progress been made computers transfer from language another with some degree automation what problems stumbling blocks have been found they considered insurmountable limitations only challenging field documentation international scale
+</TOP>
+<TOP>
+<NUM>41<NUM>
+<TITLE>alphabetical ordering material considered useful tool information retrieval what studies have been done compare effectiveness alphabetical order with other organization schemes there generally accepted form arranging material alphabetical order there easy achieving this form without going great amount effort
+</TOP>
+<TOP>
+<NUM>42<NUM>
+<TITLE>average student researcher difficulty comprehending vocabulary information retrieval appears important that this field understood before fully accepted what basic articles would provide understanding various important aspects information storage retrieval
+</TOP>
+<TOP>
+<NUM>43<NUM>
+<TITLE>difficulties encountered information retrieval systems often less related equipment used than failure plan adequately document analysis indexing machine coding position programmer take problem write which equipment will understand what articles have been written describing research maximizing effectiveness programming
+</TOP>
+<TOP>
+<NUM>44<NUM>
+<TITLE>there presently fifty hundred technical journals being published average journals appear every many journals published million articles appear every year what attempts have been made cope with this amount scientific technical publication terms analysis control storage retrieval
+</TOP>
+<TOP>
+<NUM>45<NUM>
+<TITLE>looking information about impact automation libraries significance libraries general this includes increasing importance automation view proliferation information today automation help libraries cope with this problem will automation affect libraries should they react idea automation
+</TOP>
+<TOP>
+<NUM>46<NUM>
+<TITLE>seeking information data processing libraries mechanization routine library processes procedures would like descriptions both general specific applications automation such areas circulation cataloging acquisitions serial records other record keeping examples should based operation conventional public university library practices special library which could also applied public university library give descriptions equipment operations both present projected
+</TOP>
+<TOP>
+<NUM>47<NUM>
+<TITLE>there established means present international exchange material about information retrieval there does take form international agency center which regularly distributes information retrieval methods research results there what ways this material crossed national boundaries what seem have been some problems blocking better international exchange effort being made solve some those problems
+</TOP>
+<TOP>
+<NUM>48<NUM>
+<TITLE>information retrieval still such experimental field that line distinguishing research practice often difficult even impossible draw there however actual centers research information retrieval which countries they located supports them government business universities libraries information retrieval specialized research discipline said emerging still amalgam skills from other fields such mathematics engineering library science other words tell about information retrieval research
+</TOP>
+<TOP>
+<NUM>49<NUM>
+<TITLE>most resources have been spent applying information retrieval techniques physical medical sciences information retrieval been used natural sciences social sciences humanities what have been some problems which have been encountered with these subject areas have they been solved have characteristics these subject areas necessitated development information retrieval techniques what prospcts future machine control these areas
+</TOP>
+<TOP>
+<NUM>50<NUM>
+<TITLE>there traditional classification schemes information retrieval systems there which scheme appears most suited machine where been applied there these classification schemes irrelevant research shown that subject classification knowledge completely unnecessary machine systems have schemes been devised which appear more suited machine
+</TOP>
+<TOP>
+<NUM>51<NUM>
+<TITLE>coordinate indexing utilizes descriptors controlled language what descriptors construction index descriptors used searching information retrieval system
+</TOP>
+<TOP>
+<NUM>52<NUM>
+<TITLE>what characteristics medlars medical literature analysis retrieval system project which been undertaken national library medicine does index current medical journals what relation this indexing system index medicus what major components medlars project major operating details
+</TOP>
+<TOP>
+<NUM>53<NUM>
+<TITLE>computer used medical science diagnostic clinical record keeping purposes have programs automation been tried hospitals what have been results what problems have been encountered automation medicine what purposes automated system clinical records used what other possible uses computer medicine
+</TOP>
+<TOP>
+<NUM>54<NUM>
+<TITLE>what effect librarians automation note types technology used library which will have effect status position function librarians what changes being contemplated have been initiated introduce automation into education librarians
+</TOP>
+<TOP>
+<NUM>55<NUM>
+<TITLE>what aims objectives medical literature analysis retrieval system medlars does medlars operate what possible applications medlars future information retrieval systems
+</TOP>
+<TOP>
+<NUM>56<NUM>
+<TITLE>standard method finding information today libraries through alphabetically arranged card catalog classified catalog based classification system such these systems modified with automated information retrieval
+</TOP>
+<TOP>
+<NUM>57<NUM>
+<TITLE>catalogs which either arranged alphabetically arranged classification number entry printed readable language ultimately important because individual looking information definite author title subject phrase language probably english case mind will entries subject headings used same manner automated systems
+</TOP>
+<TOP>
+<NUM>58<NUM>
+<TITLE>bibliographic control before after marc reviewed capability keying into online systems brought interdependence among libraries service centers that mediate between them large utilities that process distribute data from this developed basic network structure among libraries united states independent development major networks brought problems standardization coordination authors point that while technology toward centralization automated library services developments pushing toward decentralization coordination requirement avoid fragmentation this environment
+</TOP>
+<TOP>
+<NUM>59<NUM>
+<TITLE>retrieval performance book indexes measured terms their ability direct user selectively text material whose identity location known method requires human searchers base their searching strategies actual passages from book rather than test queries natural contrived circumvents need relevance judgement still yields performance indicators that correspond approximately recall precision ratios large document retrieval system evaluation preliminary application method subject indexing major encyclopedias showed encyclopedia apparently superior both finding discrimination abilities retrieval performance method presently best suited comparative testing since ability yield absolute reproducible measures established
+</TOP>
+<TOP>
+<NUM>60<NUM>
+<TITLE>linkage similarity measure which takes into account both bibliographic coupling documents their cocitations both cited citing papers produced improved document retrieval over measure based only bibliographic coupling test collection consisted papers whose relevance specific queries been judged users evaluate effect using cocitation data calculated each query measures similarity between each relevant paper every other paper retrieved papers were then sorted similarity measures producing ordered lists then compared resulting predictions relevance partial relevance relevance user evaluations same papers overall change from bibliographic coupling measure linkage similarity measure representing introduction cocitation data resulted better retrieval performance
+</TOP>
+<TOP>
+<NUM>61<NUM>
+<TITLE>that individuals construct modify search queries large interactive document retrieval system subject systematic biases similar those that have been demonstrated experiments judgements under uncertainty these biases shared both naive sophisticated subjects cause inquirer searching documents large interactive system construct modify queries inefficiently searching algorithm suggested that helps inquirer avoid effect these biases
+</TOP>
+<TOP>
+<NUM>62<NUM>
+<TITLE>this article concerns problem permit patron represent relative importance various index terms boolean request while retaining desirable properties boolean system character classical boolean systems reviewed related notion fuzzy sets fuzzy concept then forms basis concept fuzzy request which weights assigned index terms ther properties such system discussed shown that such systems retain manipulability traditional boolean requests
+</TOP>
+<TOP>
+<NUM>63<NUM>
+<TITLE>commercially available online search used standard comparative searching evaluation house information system based automatic indexing system features were identified evaluated basis their usefulness various kinds searching their ease implementation they influenced differences user type specific applications some common features commercial system such online instruction user specified print formats dictionary display truncation seen unnecessary impractical house system designing house system therefore detald consideration must given applications operating environment real user needs while commercial system serve useful standard comparative evaluation must careful attempt duplicate blindly house
+</TOP>
+<TOP>
+<NUM>64<NUM>
+<TITLE>argued that information science have distinguish physical objective document space from perspective subjective information space these spaces like maps landscapes each systematic distortion other however transformation easily made once spaces distinguished transformations omitted only unhelpful physical solutions information problems
+</TOP>
+<TOP>
+<NUM>65<NUM>
+<TITLE>document clusters been suggested efficient file organization document retrieval system possible that using this information about relationships between documents that effectiveness system ability distinguish relevant from relevant documents also improved this paper probabilistic model cluster searching based query classification described this model tested with retrieval experiments which indicate that more effective than heuristic cluster searches cluster searches based other models also more effective than full search which every document compared query efficiency aspects implementation model discussed
+</TOP>
+<TOP>
+<NUM>66<NUM>
+<TITLE>current online library network technology described including physical functional aspects networks three types networks distinguished search service lockheed customized service that provide bibliographic files oclc rlin service center nelinet incolsa predicted that technology evolves more services will provided outside library directly user through home office
+</TOP>
+<TOP>
+<NUM>67<NUM>
+<TITLE>experimental computer program been developed classify documents according sections five major section groupings chemical abstracts program uses pattern recognition techniques supplemented heuristics during training phase words from classified documents selected probability occurrence each word each section computed stored reference dictionary classification phase matches each word document title against dictionary assigns section number document using weights derived from probabilities dictionary heuristic techniques used normalize word variants such plurals past tenses gerunds both training phase classification phase dictionary lookup technique supplemented analysis chemical nomenclature terms into their component word roots influence section which documents assigned program performance human consistency have been evaluated comparing program results against published sections conducting experiment with people experienced assignment documents sections program assigned approximately documents correct major section groupings correct sections cross references rate documents second
+</TOP>
+<TOP>
+<NUM>68<NUM>
+<TITLE>some automatic classification procedures used information retrieval derive clusters documents from intermediate similarity matrix computation which involves comparing each documents collection with others recently been suggested that many these comparisons specifically those between documents having terms common avoided means uyse inverted file document collection this communication shows that approach will effect reductions number interdocument comparisons only documents each indexed limited number indexing terms exhaustive indexing used many document pairs will compared several times over computation will greater than when conventional approaches used generate similarity matrix
+</TOP>
+<TOP>
+<NUM>69<NUM>
+<TITLE>minicomputer various phases creating thesaurus national information center special education materials nicsem database described minicomputer used collect edit correct candidate thesaurus terms minicomputer eases process grouping terms into files similar concepts facilitates generation products useful vocabulary review term structuring syndetic relations indicated assigning coded identification numbers altered easily design phase reflect restructuring requirements because thesaurus terms already machine readable form simple prepare print programs provide permuted alphabetic hierarchical chart formatted term displays overall minicomputer facilitates initial thesaurus entry development reducing clerical effort editorial staff decisions overall processing times
+</TOP>
+<TOP>
+<NUM>70<NUM>
+<TITLE>decision support systems represent concept role computers within decision making process term become rallying researchers practitioners managers concerned that management science management information systems fields have become unnecessarily narrow focus with many rallying cries term well defined some writers simply mean interactive systems managers others issue support rather than system they focus understanding improving decision process then designed using available suitable technology some researchers view subfield while others regard extension management science techniques former define decision support providing managers with access data latter giving them access analytic models argument this paper that term relevant situations where final system developed only through adaptive process learning evolution design strategy must then focus getting finished this very different from management science data processing approaches research issued center around adaption evolution they include managerial learning representation tasks user behavior design architecture strategies getting started
+</TOP>
+<TOP>
+<NUM>71<NUM>
+<TITLE>method described extract significant phrases title abstreact scientific technical documents method based upon text structure analysis uses relatively small dictionary dictionary been constructed based knowledge about concepts field science technology some lexical knowledge significant phrases their component items used different meanings among fields text analysius approach been applied select significant phrases substantial semantic information carriers contents abstract results experiment five sets documents have shown that significant phrases effectively extracted cases number them every document processing time fairly satisfactory information representation document partly using method discussed with relation construction document information retrieval system
+</TOP>
+<TOP>
+<NUM>72<NUM>
+<TITLE>passage retrieval already operational lawyers advantages output form opver references retrieval economically feasible previous experiments passage retrieval scientists have demonstrated recall false retrieval rates good better than those present reference retrieval services present experiment involved greater variety forms retrieval question addition search words were selected independently different people each retrieval question search words selected combination with computer procedures used passage retrieval produced average recall ratios respectively selectors false retrieval rates were except predictably difficult question respectively falsely retrieved sentences answer paper retrieved
+</TOP>
+<TOP>
+<NUM>73<NUM>
+<TITLE>this paper describe practical method partial match retrieval very large data files binary code word called descriptor associated with each record file these record descriptors then used form derived descriptor block several records which will serve index block whole hence name indexed descriptor files first structure these files described simple efficient retrieval algorithm presented then expected behavior terms storage accesses analyzed detail different file creation procedures sketched number ways which file organization tuned particular application suggested
+</TOP>
+<TOP>
+<NUM>74<NUM>
+<TITLE>recenty technological advances success oclc emergence three additional nonprofit library networks research libraries information network rlin research libraries group university toronto library automation system utlas washington library network this paper examines economic technological factors affecting evolution these networks also explores role those state regional multistate networks that broker oclc services competitive cooperative nature network relationships major theme discussion
+</TOP>
+<TOP>
+<NUM>75<NUM>
+<TITLE>type natural language parser presented idea behind this parser input sentences into deepest form representation their meaning inferences appropriate parser distinct from entire understanding system uses integrated conception inferences scripts plans other knowledge parse furthermore does attempt parse everything sees rather determines what most interesting concentrates that ignoring rest
+</TOP>
+<TOP>
+<NUM>76<NUM>
+<TITLE>this paper discusses origins library networks traces their development united states late through present concept resource sharing with particular attention inter library loan programs cooperative acquisition storage materials examined relationship library networks particular attention given question these major components library cooperation which have tended separate might become more closely integrated
+</TOP>
+<TOP>
+<NUM>77<NUM>
+<TITLE>this paper presents method normalizations english titles their retrieval title expressed noun phrase noun clause converted function expression parsing retrieval with reasonable recall rate well high precision rate function expression transformed predicate governor form then normalized standard form therefrom various items extracted recorded hierarchical tree like inverted file order keep recall rate reasonable value several retrieval stages implemented based term case label matching retrieval controlled preciseness specification case labels each term
+</TOP>
+<TOP>
+<NUM>78<NUM>
+<TITLE>generalization notion grammar called cascaded catn prescribed catn permit decomposition complex language understanding behavior into sequence cooperating with separate domain responsibility where each stage called transducer takes input from output previous stage paper includes extensive discjussion principles factoring conceptual factoring reduces number places that given fact needs represented grammar hypothesis factoring reduces number distinct hypotheses that have considered during parsing
+</TOP>
+<TOP>
+<NUM>79<NUM>
+<TITLE>algorithms given process partially specified queries compressed database system proposed methods handle effectively queries that either whole words word fragments language elements methods compared critically evaluated terms design retrieval costs analyses show that method which exploits interdependence fragments well relevance fragments records file maximum design cost least retrieval cost
+</TOP>
+<TOP>
+<NUM>80<NUM>
+<TITLE>from detailed analysis eight previously published mathematical models general formulation bradford distribution deduced follows where ratio cumulative frequency articles total number articles ratio rank journals total number journals parameters slope intercept shift straight line rank respectively each eight models special case general formulation five types formulation order estimate three unknown parameters statistical method using root weighted square error proposed comparative experiment using databases suggests that fifth type formulation with three unknown parameters best observed data further experiment shows that deletion droop data leads more accurate value parameters less error
+</TOP>
+<TOP>
+<NUM>81<NUM>
+<TITLE>lexical problems large information systems created necessity handling great number names their interrelations such lexical problems covered completely concept data dictionaries which mostly concerned with database scheme design rather than execution operations this paper introduce view lexical subsystem separate component information system architecture deal with linguistic control functions concerning lexical problems local network environments lexical suybsystem special efficiently organized program package which plays role linguistic filter broad sense lexically incorrect queries promotes integration databases information retrieval systems facilitates creation local information systems hope that lexical subsystems become productive large especially distributed information system
+</TOP>
+<TOP>
+<NUM>82<NUM>
+<TITLE>relational model received increasing attention during past decade advantages include simplicity consistency sound theoretical basis this article naturalness viewing information retrieval relationally demonstrated relational model presented relational organization bibliographical database shown notion normalization introduced first second third fourth normal forms demonstrated relational languages discussed including relational calculus relational algebra sequel numerous examples pertinent information retrieval presented these relational languages advantages relational approach information retrieval noted
+</TOP>
+<TOP>
+<NUM>83<NUM>
+<TITLE>this paper describes architectural approach that provides information exchange across broad spectrum user applications office automation offerings some architectures described herein currently implemented existing products these other architectures will provide basis document interchange capability between products such administrative system system distributed office support system disoss displaywriter system specifically described document distribution architecture associated data streams others general overview architectures opposed detailed technical description provided architectures described protocols interchange between application processes they address specific user interface document distribution architectures utilize data transmission communications control facilities
+</TOP>
+<TOP>
+<NUM>84<NUM>
+<TITLE>technique described automatic reformulation boolean queries based patron relevance judgements initial retrieval prevalence measures derived terms appearing retrieved documents that reflect term distribution among relevant relevant documents these measures then used guide construction boolean query subsequent retrieval illustrate technique series tests described application small data base experimental environment results compare favourably with feedback employed smart type system more extensive testing suggested validate technique
+</TOP>
+<TOP>
+<NUM>85<NUM>
+<TITLE>this paper intended propose methodological approach conception development natural language understanding systems this contribution supported design implementation experimentation donau general purpose domain oriented natural language understanding system developed presently running milan polytechnic artificial intelligence project system based level modular architecture intended overcome lack flexibility generality often pointed many existing systems facilitate exchange results actual experiences between different projects horizontal level allows independent parallel development single segments system syntactic analyser information extractor legality controller vertical level ensures possibility changing enlarging redefining definition semantic domain which each particular version system oriented specialized simple incremental user oriented paper general architecture system mode operation each segment illustrated detail linguistic models knowledge representation parsing algorithms described illustrated means selected examples performance evaluations system application version data base inquiry reported discussed promising directions future research presented conclusions
+</TOP>
+<TOP>
+<NUM>86<NUM>
+<TITLE>approximate matching strings reviewed with surveying techniques suitable finding item database when there spelling mistake other error keyword methods found classified either equivalence similarity problems equivalence problems seen readily solved using canonical forms similarity problems difference measures surveyed with full description well established dynamic programming method relating this approach using probabilities likelihoods searches approximate matches large sets using difference function seen open problem still though several promising ideas have been suggested approximate matching error correction during parsing briefly reviewed
+</TOP>
+<TOP>
+<NUM>87<NUM>
+<TITLE>prototype system created that integrates microfiche catalog into online computer system bibliographic control costs operational data collected analyzed system permits more economical microfiche storage catalog records than would feasible comparable online magnetic disk storage experimental tests demonstrate feasibility online microfiche catalog system library technical services retrieval bibliographic data primary result project creation completely operational facility including equipment software procedures data bases necessary demonstrate system second results derived from experimental system evaluation costs times various operations cost effectiveness online microfiche catalog demonstrated
+</TOP>
+<TOP>
+<NUM>88<NUM>
+<TITLE>question asked whether feasible subsets natural languages query languages data bases actual applications using question answering system user specialty languages methods evaluating natural language based information system will discussed results error language structure evaluation suggest form general architecture application systems which subset german query language
+</TOP>
+<TOP>
+<NUM>89<NUM>
+<TITLE>collier presented some hypothetical data economic aspects online services compared with subscriptions printed services libraries collier view economics online searching seems misleadingly pessimistic because looks only costs effectiveness comparing modes access searching analysis combining cost effectiveness aspects cost effectiveness analysis would give completely different picture cost data presented grossly unfair online mode access this work contains corrected information regarding online printed services libraries
+</TOP>
+<TOP>
+<NUM>90<NUM>
+<TITLE>many information scientists concerned with operation document retrieval systems serving scientists various fields scientists served these systems often members what have been called invisible colleges groups scientists frequent communication with another involved with highly specialized subject matters often such groups considered share intellectual perspective regarding this subject matter which sometimes referred paradigm purpose this paper show possible identify paradigms using techniques citation analysis will operationalize notion paradigm consensual structure concepts field suppose have obtained papers pertaining some topic already knowing something about field read each text mark passages which certain specific concepts used discussed example might find that concept designated appears some papers suppose further that identify those papers which concepts used together same papers certain specified manner clearly concepts will combine natural authors combining concepts will same though some predominant mode emerge concepts their structure given totality admissible combinations concepts taken from time frequency with which given combination occurs sample papers topic measure degree consensus regarding particular concept combination within corpus concepts taken time structure displayed graph with concepts nodes relations between them represented lines arcs connecting nodes this definition concept structure similar semantic network artificial intelligence except that approach measure consensus weights each graph
+</TOP>
+<TOP>
+<NUM>91<NUM>
+<TITLE>mode online retrieval scisearch social scisearch involves entering pairs authors names believed jointly cited subsequent writers retrieving papers which cocitations occur pairs were formed with names four authors prominent social indicators movement bauer duncan land sheldon documents four were specified thought that pair duncan land would retrieve papers which indicator type data would integrated with path analytic causal modeling other pairs seemed likely retrieve general social indicators literature retrieved papers confirmed expectattions found that papers generally cited social indicators documents input authors frequently language their titles other signs content also identified them papers movement papers retrieved duncan land generally cited causal modeling documents input pair were path analytic nature expected they were relatively harder than first group papers although groups akin formally linked through citations certain papers additional result that papers citing least three input authors tend overviews movement
+</TOP>
+<TOP>
+<NUM>92<NUM>
+<TITLE>number databases records contained databases online databases increased dramatically over past several years bringing totals bibliographic bioliographic related natural language databases these databases contain million records some million online searches were conducted major canadian systems
+</TOP>
+<TOP>
+<NUM>93<NUM>
+<TITLE>method iterative searching using results iteration search formulate next iteration search applied full text database consisting some documents text words hebrew aramaic iterative method consists clustering documents returned iteration using weighting proximity frequency simultaneously process produces searchonyms which terms synonymous keywords context single query augumenting replacing keywords searchonyms manual automatic feedback leads formulation next iteration search results experiment consistent with those earlier small scale experiment english database indicate that contrast global clustering where size matrices limits applications small databases improvements doubtful local metrical methods appear well suited arbitrarily large databases improving precision recall simultaneously further experiments using more test queries even larger databases should made collect further evidence performance these methods
+</TOP>
+<TOP>
+<NUM>94<NUM>
+<TITLE>refles microcomputer based system data retrieval library environments problem information retrieval discussed from theoretical point view followed analysis reference process data thereby gathered leading description refles terms hardware software refles prototype system present currently functions test environment examples data contained system presented future considerations speculations other versions system conclude paper
+</TOP>
+<TOP>
+<NUM>95<NUM>
+<TITLE>major deficiency traditional boolean systems their inability represent varying degrees which document written subject this article isolate number criteria that should boolean system generalized have weighting capability proven that only weighting rule satisfies these conditions that associated with fuzzy theory that this weighting scheme satisfies most other properties associated with boolean algebra well probabilistic weighting then introduced alternative approach systems compared limit zero weights systems considered converge traditional boolean retrieval
+</TOP>
+<TOP>
+<NUM>96<NUM>
+<TITLE>several papers have appeared that have analyzed recent developments problem processing document retrieval system queries expressed boolean expressions purpose this paper continue that analysis shall show that concept threshold values resolves problems inherent with relevance weights moreover shall explore possible evaluation mechanisms retrieval documents based fuzzy theoretic considerations
+</TOP>
+<TOP>
+<NUM>97<NUM>
+<TITLE>there been good deal work information retrieval systems that have continuous weights assigned index terms that describe records database query terms that describe user queries recent articles have analyzed retrieval systems with continuous weights either type with boolean structure queries they have also suggested criteria which such systems ought satisfy record evaluation mechanisms which partially satisfy these criteria offer more careful analysis based generalization discrete weights also look weights from entirely different approach involving thresholds generate improved evaluation mechanism which seems fulfill larger subset desired criteria than previous mechanisms this mechanism allows user attach threshold query term
+</TOP>
+<TOP>
+<NUM>98<NUM>
+<TITLE>online retrieval systems difficult especially users because heterogeneity complexity investigations have concerned concept translating computer interface means simplify access operation heterogeneous bibliographic retrieval systems databases interface allows users make requests common language these requests translated interface into appropriate commands whatever system being interrogated system responses also transformed interface into common form before being given users thus network different systems made look like single virtual system user interface also provides instruction other search aids user philosophy design implementation experimental interface named conit described
+</TOP>
+<TOP>
+<NUM>99<NUM>
+<TITLE>evaluation concept translating compuyter interface simplifying operation multiple heterogenous online bibliographic retrieval systems been undertaken experimental retrieval system named conit built tested under controlled conditions with inexperienced users detailed analysis experimental usages showed that users were able master interface operation sufficiently well find relevant document references success attributed part simple command language adequate online instruction simplified natural language keyword stem approach searching concluded that operational interfaces type studied provide increased usability existing system cost effective manner especially searchers furthermore more advanced interfaces based improved instruction automated search strategy techniques could further enhance retrieval effectiveness wide class users
+</TOP>
+<TOP>
+<NUM>100<NUM>
+<TITLE>this paper notes benefits accruing from interaction between computerized retrieval systems micrographic retrieval systems reviews current state automated micrographic retrieval technology conclusion that with combination advances communications technology sophisticated indexing input from libraries information scientists generation automated micrographs devices constitute line document retrieval systems future
+</TOP>
+<TOP>
+<NUM>101<NUM>
+<TITLE>conventional information retrieval processes largely based data movement pointer manipulations integer arithmetic more refined retrieval algorithms addition benefit from substantial computational power present study number parallel processing methods described that serve enhance retrieval services conventional retrieval environments parallel list processing parallel search facilities greatest interest more advanced systems array processors also proves beneficial various information retrieval processes examined evidence given demonstrate usefulness parallel processing fast computational facilities information retrieval
+</TOP>
+<TOP>
+<NUM>102<NUM>
+<TITLE>frequency characteristics terms documents collection have been used indicators term importance content analysis indexing purposes particular very rare very frequent terms normally believed less effective than medium frequency terms recently automatic indexing theories have been devised that only term frequency characteristics also relevance properties terms major term weighting theories first briefly reviewed term precision term utility weights that based occurrence characteristics terms relevant opposed nonrelevant documents collection then introduced methods suggested estimating relevance properties terms based their overall occurrence characteristics collection finally experimental evaluation results shown comparing weighting systems using term relevance properties with more conventional frequency based methodologies
+</TOP>
+<TOP>
+<NUM>103<NUM>
+<TITLE>this paper describes design implementation electronic filing machine machine which capable storing large numbers unstructured documents such particular document easily quickly retrieved functional distributed architecture permits implementation system mixture hardware software
+</TOP>
+<TOP>
+<NUM>104<NUM>
+<TITLE>this paper tackles problem might select further search terms using relevance feedback given search terms query these search terms extracted from maximum spanning tree connecting terms index term vocabulary number different spanning trees generated from variety association measures retrieval effectiveness different spanning trees shown approximately same effectiveness measured terms precision recall retrieval tests done three different test collections
+</TOP>
+<TOP>
+<NUM>105<NUM>
+<TITLE>indexing quality determines whether information content indexed document accurately represented indexing effectiveness measures whether indexed document correctly retrieved every time relevant query measurement these criteria cumbersome costly data base producers therefore prefer inter indexer consistency measure indexing quality effectiveness present article assesses validity this substitution various environments
+</TOP>
+<TOP>
+<NUM>106<NUM>
+<TITLE>experiments conducted determine suitability colon classification foundation automated analysis representation retrieval primary information from full text documents primary information that information embodied text document opposed secondary information which generally such forms abstract table contents index full text databases were created subject areas queries solicited from specialists each area automated full text indexing system along with four automated passage retrieval systems created test various features colon classification boolean based systems simple word occurrence system were created order compare retrieval results against types systems which more common systems retrieval performances were measured using recall precision mean expected search length reduction factors overall found that colon classification based systems perform significantly better than other systems
+</TOP>
+<TOP>
+<NUM>107<NUM>
+<TITLE>study carried relationship between vocabulary user queries vocabulary documents relevant queries value adding document description record retrieval system keywords from previous queries which document proved useful test databases incorporating user query keywords were implemented school library information science university western ontario clustering documents title user keywords statistical analysis title user keyword occurrences retrieval tests were used examine effect added keywords results showed impracticality procedure operational setting indicated value analyses with sample data development maintenance keyword dictionaries thesauri
+</TOP>
+<TOP>
+<NUM>108<NUM>
+<TITLE>technique online instruction assistance bibliographic data base searchers called individualized instruction data access iida being developed drexel university iida assists searchers providing feedback based real time analysis while searches being performed extensive help facilities which draw this analysis available users much project experimental work described elsewhere concerned with process searching behavior searchers this paper will largely address itself project computer system which being developed subcontract with franklin institute science information services
+</TOP>
+<TOP>
+<NUM>109<NUM>
+<TITLE>shown that mapping particular area science this case information science done using authors units analysis cocitations pairs authors variable that indicates their distances from each other analysis assumes that more authors cited together closer relationship between them data cocitation counts drawn online from social scisearch social sciences citation index over period gthe resulting shows identifiable author groups akin schools information science locations these groups with respect each other degree centrality peripherality authors within groups proximities authors within group across group boundaries border authors seem connect various areas research positions authors with respect axes which were arbitrarily spanning most divergent groups order interpretation cocitation analysis authors offers technique that might contribute understanding intellectual structure sciences possibly other areas extent that those areas rely serial publications technique establishes authors well documents effective unit analyzing subject specialties
+</TOP>
+<TOP>
+<NUM>110<NUM>
+<TITLE>office future office technology word processing electronic mail electronic communications convergence information management these terms included current list buzz words used describe current activities office technology area high level investment factories plants ever increasing fight improve productivity automating dull routine jobs usually quoted compared with extremely investment improving automating equally tedious routine jobs office environment investment factory quoted being times greater employee than office this however changing rapidly investment large scale already taking place manhy areas present inflation bites hard forcing many companies organizations take much closer look their office operations
+</TOP>
+<TOP>
+<NUM>111<NUM>
+<TITLE>automated document clustering procedure described which does require inter document similarity matrix which independent order which documents processed procedure makes initial clusters which derived from certain terms indexing vocabulary used characterise documents file retrieval effectiveness obtained using clustered file compared with that obtained from serial searching from single linkage clustering method
+</TOP>
+<TOP>
+<NUM>112<NUM>
+<TITLE>fast algorithm described comparing lists terms representing documents automatic classification experiments speed procedure arises from fact that zero valued coefficicents given document identified together using inverted file terms document collection complexity running time algorithm compared with previously described procedures
+</TOP>
